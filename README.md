@@ -6,7 +6,7 @@
 
 ## 📚 Projects I've Made
 - Wordle <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Wordle.gif" width="500" height="500" />
-- Slider website
+- Slider website <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Slide.gif" width="700" height="500" />
 - Snake game
 - Tenzies
 - Starrail Inspired website
