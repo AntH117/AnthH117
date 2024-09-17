@@ -5,8 +5,7 @@
 - ⛩️ Enjoy travelling to Japan + Learning the language
 
 ## 📚 Projects I've Made
-- Wordle
-- ![](https://github.com/AnthH117/Gifs/Wordle.gif)
+- Wordle <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Wordle.gif" width="500" height="500" />
 - Slider website
 - Snake game
 - Tenzies
