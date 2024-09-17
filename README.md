@@ -6,6 +6,7 @@
 
 ## 📚 Projects I've Made
 - Wordle
+- ![](https://github.com/AnthH117/Gifs/Wordle.gif)
 - Slider website
 - Snake game
 - Tenzies
