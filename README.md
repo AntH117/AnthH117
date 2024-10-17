@@ -14,4 +14,5 @@
 - [Audacity(Music Inspired)](https://github.com/AntH117/Audacity) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Audacity.gif" width="800" height="500" />
 - [Ruby Resorts](https://github.com/AntH117/Ruby_Resorts) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Ruby_Resorts.gif" width="800" height="500" />
 
-## 💻 Projects I'm Making
+## 💻 Smaller Projects
+- QR code generator
