@@ -17,3 +17,6 @@
 
 ## 💻 Smaller Projects
 - QR code generator
+
+## 🖊️ Projects I'm currently working on
+- Flight tracker
