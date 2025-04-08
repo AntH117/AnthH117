@@ -5,6 +5,7 @@
 - ⛩️ Enjoy travelling to Japan + Learning the language
 
 ## 📚 Projects I've Made
+- [Flight-Tracker](https://github.com/AntH117/Flight-Finder) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/flight-tracker-finished.gif" width="700" height="500" />
 - [Wordle](https://github.com/AntH117/wordle) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Wordle.gif" width="500" height="500" />
 - [Slider website](https://github.com/AntH117/Slider) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Slide.gif" width="700" height="500" />
 - [Book Finder](https://github.com/AntH117/Book_Finder) <br /> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Book_Finder.gif" width="500" height="600"/>
@@ -19,4 +20,3 @@
 - QR code generator
 
 ## 🖊️ Projects I'm currently working on
-- Flight tracker
