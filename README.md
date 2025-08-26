@@ -1,8 +1,9 @@
 
 ## 💡 About Me
-- 🖋️ Front-end software developer who enjoys creating websites
+- 🖋️ Full stack software developer who enjoys creating websites
 - 👨‍🎓 Bachelor of business at the University of Technology Sydney
 - ⛩️ Enjoy travelling to Japan + Learning the language
+- 🧩 Loves puzzles
 
 ## 📚 Full-Stack Projects I've Made
 - [CodeIn](https://github.com/AntH117/CodeIn) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/CodeIn.gif" width="700" height="700" />
