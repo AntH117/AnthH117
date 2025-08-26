@@ -5,7 +5,7 @@
 - ⛩️ Enjoy travelling to Japan + Learning the language
 
 ## 📚 Full-Stack Projects I've Made
-- [CodeIn](https://github.com/AntH117/CodeIn)
+- [CodeIn](https://github.com/AntH117/CodeIn) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/CodeIn.gif" width="700" height="700" />
   
 ## 🎨 Front-End Projects I've Made
 - [Flight-Tracker](https://github.com/AntH117/Flight-Finder) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/flight-tracker-finished.gif" width="700" height="500" />
