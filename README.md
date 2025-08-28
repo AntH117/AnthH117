@@ -7,7 +7,10 @@
 
 ## 📚 Full-Stack Projects I've Made
 - [CodeIn](https://github.com/AntH117/CodeIn) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/CodeIn.gif" width="700" height="700" />
-  
+
+## 🖊️ Projects I'm currently working on
+- Pathly: Personal trip planner using google maps API
+
 ## 🎨 Front-End Projects I've Made
 - [Flight-Tracker](https://github.com/AntH117/Flight-Finder) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/flight-tracker-finished.gif" width="700" height="500" />
 - [Wordle](https://github.com/AntH117/wordle) <br/> <img src="https://github.com/AntH117/AnthH117/blob/main/Gifs/Wordle.gif" width="500" height="500" />
@@ -23,5 +26,3 @@
 ## 💻 Smaller Projects
 - QR code generator
 
-## 🖊️ Projects I'm currently working on
-- [CodeIn](https://github.com/AntH117/CodeIn)
